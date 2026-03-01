@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-blade-runner-dark: #0a0e27;
+  --color-blade-runner-neon: #00fff9;
+  --color-blade-runner-orange: #ff6b35;
+  --color-blade-runner-purple: #8b5cf6;
+}
