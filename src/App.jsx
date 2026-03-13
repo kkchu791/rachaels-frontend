@@ -68,7 +68,7 @@ function App() {
       },
       courageState: {
         tag: "FULFILLMENT",
-        media: ["https://media.istockphoto.com/id/823353126/video/reaching-the-highest-peak-of-pleasure.mp4?s=mp4-640x640-is&k=20&c=CQyxUb4DkNV9RNAj5hS4IXD07f05JBRUY6uRExrJfZI="]
+        media: ["https://media.istockphoto.com/id/1367569394/video/red-glowing-heart-shapes-light-beam-tunnel-animation-loopable-background-stock-video-the.mp4?s=mp4-640x640-is&k=20&c=qNL3jf3imovIFajGHClOiI12C2Auo_hPhkbhzMGwmbM="]
       }
     },
     {
